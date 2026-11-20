@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Devesh (@Bestofdev)
+# 👋 Hi, I’m Devesh 
 
 **B.E. CSE 2nd Year | Aspiring Gameplay Programmer | Building 3D Games & Systems with C++ and Blender**
 
@@ -11,12 +11,14 @@
 - **LinkedIn:** [Devesh Chandrasekaran](https://www.linkedin.com/in/devesh-chandrasekaran-30aa611bb/)
 - **YouTube:** [Tech With Devesh](https://www.youtube.com/channel/UCXh8bhuzwSDSNC_Z7Su1OWg)
 
+
 ### 🛠️ Tools & Technologies
 ![C++](https://shields.io)
 ![Python](https://shields.io)
 ![Blender](https://shields.io)
 ![Unreal Engine](https://shields.io)
 ![Git](https://shields.io)
+
 
 
 <!---
