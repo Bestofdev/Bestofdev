@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Devesh (@Bestofdev)
+# 👋 Hi, I’m Devesh 
 
 **B.E. CSE 2nd Year | Aspiring Gameplay Programmer | Building 3D Games & Systems with C++ and Blender**
 
@@ -9,7 +9,7 @@
 
 ### 🔗 Connect With Me
 - **LinkedIn:** [Devesh Chandrasekaran](https://linkedin.com)
-- **YouTube:** [Tech With Devesh](https://youtube.com)
+- **YouTube:** [Best of Dev](https://youtube.com)
 
 ### 🛠️ Tools & Technologies
 - **Languages:** `C++` · `Python` · `C`
