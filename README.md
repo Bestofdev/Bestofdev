@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Devesh 
+# 👋 Hi, I’m Devesh (@Bestofdev)
 
 **B.E. CSE 2nd Year | Aspiring Gameplay Programmer | Building 3D Games & Systems with C++ and Blender**
 
@@ -8,23 +8,10 @@
 - 📫 **How to reach me:** techwithdevesh@gmail.com
 
 ### 🔗 Connect With Me
-- **LinkedIn:** [Devesh Chandrasekaran](https://www.linkedin.com/in/devesh-chandrasekaran-30aa611bb/)
-- **YouTube:** [Tech With Devesh](https://www.youtube.com/channel/UCXh8bhuzwSDSNC_Z7Su1OWg)
-
+- **LinkedIn:** [Devesh Chandrasekaran](https://linkedin.com)
+- **YouTube:** [Tech With Devesh](https://youtube.com)
 
 ### 🛠️ Tools & Technologies
-<p align="left">
-  <img src="https://githubusercontent.com" alt="C++" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Blender" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Unreal Engine" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Git" width="40" height="40"/>
-</p>
-
-
-
-
-<!---
-Bestofdev/Bestofdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Languages:** `C++` · `Python` · `C`
+- **Game Dev & 3D:** `Unreal Engine 5` · `Blender` · `3D Vector Math`
+- **Tools & Workflow:** `Git` · `GitHub` · `Visual Studio`
