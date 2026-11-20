@@ -13,11 +13,14 @@
 
 
 ### 🛠️ Tools & Technologies
-![C++](https://shields.io)
-![Python](https://shields.io)
-![Blender](https://shields.io)
-![Unreal Engine](https://shields.io)
-![Git](https://shields.io)
+<p align="left">
+  <img src="https://githubusercontent.com" alt="C++" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Blender" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Unreal Engine" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Git" width="40" height="40"/>
+</p>
+
 
 
 
